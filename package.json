@@ -3,7 +3,7 @@
   "displayName": "Monokai Modern Dimmed",
   "description": "A custom theme combining Dark Modern UI with Monokai Dimmed syntax highlighting",
   "version": "0.1.0",
-  "publisher": "YourPublisherName",
+  "publisher": "dougc95",
   "engines": {
     "vscode": "^1.99.0"
   },
@@ -28,6 +28,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/dark-modern-monokai.git"
+    "url": "https://github.com/dougc95/dark-modern-monokai.git"
   }
 }
