@@ -2,12 +2,20 @@
   "name": "monokai-modern-dimmed",
   "displayName": "Monokai Modern Dimmed",
   "description": "A custom theme combining Dark Modern UI with Monokai Dimmed syntax highlighting",
-  "version": "0.0.1",
+  "version": "0.1.0",
+  "publisher": "YourPublisherName",
   "engines": {
     "vscode": "^1.99.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "modern",
+    "monokai",
+    "syntax"
   ],
   "contributes": {
     "themes": [
@@ -17,5 +25,9 @@
         "path": "./themes/Monokai Modern Dimmed-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/dark-modern-monokai.git"
   }
 }
