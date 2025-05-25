@@ -2,7 +2,7 @@
   "name": "monokai-modern-dimmed",
   "displayName": "Monokai Modern Dimmed",
   "description": "A custom theme combining Dark Modern UI with Monokai Dimmed syntax highlighting",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "dougc95",
   "engines": {
     "vscode": "^1.99.0"

@@ -1,16 +1,27 @@
-# monokai-modern-dimmed README
+# Monokai Modern Dimmed
 
-## Working with Markdown
+A custom VS Code theme that combines the modern Dark UI with Monokai Dimmed syntax highlighting for a comfortable coding experience.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Features
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Clean, modern dark UI elements from VS Code's Dark Modern theme
+- Classic Monokai Dimmed syntax highlighting that's easy on the eyes
+- Carefully balanced contrast for readability during long coding sessions
+- Optimized for a wide range of programming languages
 
-## For more information
+## Screenshots
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Monokai Modern Dimmed Theme Preview](assets/preview.jpg)
+
+## Installation
+
+1. Open **Extensions** sidebar panel in VS Code (`Ctrl+Shift+X` or `Cmd+Shift+X`)
+2. Search for `Monokai Modern Dimmed`
+3. Click **Install**
+4. Select **Monokai Modern Dimmed** from the themes dropdown menu (`Ctrl+K Ctrl+T`)
+
+## Feedback & Contributions
+
+If you have suggestions or find any issues, please open an issue on the [GitHub repository](https://github.com/dougc95/monokai-modern-dimmed).
 
 **Enjoy!**
